@@ -1,0 +1,26 @@
+:root {
+    --color-base-preto: #0D0D0D;
+    --color-base-cinza-carvao: #1E1E1E;
+    --color-base-cinza-suave: #3D3D3D;
+    --color-primary-crimson-profundo: #7A0E1F;
+    --color-primary-vermelho-ninja: #B22222;
+    --color-primary-vermelho-claro: #E05252;
+    --color-secondary-ouro-queimado: #7C5700;
+    --color-secondary-ouro-classico: #D4AF37;
+    --color-secondary-ouro-claro: #FFE08A;
+    --color-terciary-chakra-flamejante: #FF6600;
+    --color-emphasis-azul-profundo: #084870;
+    --color-emphasis-azul-chakra: #3182CE;
+    --color-emphasis-azul-claro: #81C7F5;
+    --color-complementary-verde-musgo: #1B3A1B;
+    --color-complementary-verde-folha: #3B7A57;
+    --color-complementary-verde-claro: #A8E6CF;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {}

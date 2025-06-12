@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ninjutsu Store</title>
+
+    <!-- chamada font-awesome  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+        integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- chamada css  -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- chamada google fonts  -->
+    <!-- Monoton  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+
+    <!-- bungee inline -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap" rel="stylesheet">
+
+    <!-- chakra petch -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+
+    <!-- space grotesk -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+
+
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <img src="assets/ninjutsu-store-logo.svg" alt="logo ninjutsu store">
+            <h1>Ninjutsu Store</h1>
+
+            <ul>
+                <li><a href="#">Jutsus</a></li>
+                <li><a href="#">Armas</a></li>
+                <li><a href="#">Equipamentos</a></li>
+                <li><a href="#">Vilas</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+            <form action="/buscar" method="GET" role="search">
+                <label for="busca" class="sr-only">Buscar no site</label>
+                <input type="text" id="busca" name="q" placeholder="Buscar no site" />
+                <button type="submit">🔍</button>
+            </form>
+
+        </nav>
+    </header>
+
+    <main>
+
+        <section>
+            <div>
+                <h1>Ninjutsu Store</h1>
+                <p>Equipe-se como um verdadeiro shinobi</p>
+                <button>Explorar Produtos</button>
+            </div>
+
+            <section class="produtos-destaque">
+                <h1>Produtos em Destaque</h1>
+                <div class="cards">
+                    <article class="card1"><img src="assets/pergaminho-do-chidori.svg"
+                            alt="imagem do pergaminho do jutsu Chidori">Pergaminho do
+                        Chidori</article>
+                    <article class="card2"><img src="assets/kunai-ninja.svg" alt="arma ninja">Kunai Ninja</article>
+                    <article class="card3"><img src="assets/armadura-ninja-estilizada.svg" alt="armadura ninja">Armadura
+                        do
+                        Shinobi</article>
+                </div>
+            </section>
+
+            <div>
+                <h3>Siga o caminho do Ninja</h3>
+                <p>Acesse nossos diferentes produtos para se tornar o melhor shinobi</p>
+                <article class="card4">
+                    <img src="assets/jutsu-ninja.svg" alt="jutsus ninja">
+                    <h5>Explore Jutsus</h5>
+                    <p>Descubra os poderosos jutsus que você pode dominar</p>
+                </article>
+
+                <article class="card5">
+                    <img src="assets/armas-ninjas.svg" alt="armas ninjas">
+                    <h5>Encontre as melhores Armas</h5>
+                    <p>Equipamentos de alta qualidade para sua jornada</p>
+                </article>
+            </div>
+    </main>
+
+    <footer>
+        <nav aria-label="Links do rodapé">
+            <ul>
+                <li><a href="#">Termos de Uso</a></li>
+                <li><a href="#">Política de Privacidade</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+
+            <p>Siga-nos:</p>
+            <ul class="social-icons">
+                <li><a href="https://facebook.com" target="_blank" aria-label="Facebbook"><i
+                            class="fab fa-facebook-f"></i></a></li>
+                <li><a href="https://instagram.com" target="_blank" aria-label="Instagram"><i
+                            class="fab fa-instagram"></i></a></li>
+                <li><a href="https://twitter.com" target="_blank" aria-label="X"><i class="fab fa-twitter"></i></a></li>
+            </ul>
+        </nav>
+    </footer>
+
+    </section>
+</body>
+
+</html>
