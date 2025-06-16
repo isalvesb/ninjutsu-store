@@ -43,36 +43,39 @@
 <body>
     <header>
         <nav>
-            <img src="assets/ninjutsu-store-logo.svg" alt="logo ninjutsu store">
-            <h1>Ninjutsu Store</h1>
+            <div class="logo-titulo">
+                <img class="logo" src="assets/ninjutsu-store-logo 1.svg" alt="logo ninjutsu store">
+                <h1>Ninjutsu Store</h1>
+            </div>
 
-            <ul>
+
+            <ul class="menu">
                 <li><a href="#">Jutsus</a></li>
                 <li><a href="#">Armas</a></li>
                 <li><a href="#">Equipamentos</a></li>
                 <li><a href="#">Vilas</a></li>
                 <li><a href="#">Contato</a></li>
             </ul>
-            <form action="/buscar" method="GET" role="search">
-                <label for="busca" class="sr-only">Buscar no site</label>
-                <input type="text" id="busca" name="q" placeholder="Buscar no site" />
-                <button type="submit">🔍</button>
-            </form>
+            <div class="search-bar">
+                <input type="text" placeholder="Buscar no site" />
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
 
         </nav>
     </header>
 
     <main>
 
-        <section>
+        <section class="boxe">
             <div>
-                <h1>Ninjutsu Store</h1>
+                <img src="assets/Naruto.svg" alt="olhos naruto no modo sábio">
+                <h2>Ninjutsu Store</h2>
                 <p>Equipe-se como um verdadeiro shinobi</p>
                 <button>Explorar Produtos</button>
             </div>
 
             <section class="produtos-destaque">
-                <h1>Produtos em Destaque</h1>
+                <h2>Produtos em Destaque</h2>
                 <div class="cards">
                     <article class="card1"><img src="assets/pergaminho-do-chidori.svg"
                             alt="imagem do pergaminho do jutsu Chidori">Pergaminho do
