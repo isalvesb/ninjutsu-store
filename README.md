@@ -73,5 +73,6 @@ A **Ninjutsu Store** é uma loja fictícia inspirada no universo Naruto, criada 
 ---
 
 ## 👩‍💻 Desenvolvido por
-<img width="100" height="100" alt="Isa Alves" src="https://github.com/user-attachments/assets/532023c5-5547-40d4-8e84-d7f46538ce4b" />
+![foto_perfil_Isa_Alves] <img src="https://github.com/user-attachments/assets/c8de6859-9630-4c6f-97c9-b41c92699005" alt="Isa Alves" width="100" style="border-radius: 50%;">
+
 Isa Alves – [LinkedIn](www.linkedin.com/in/isalvesb) 
