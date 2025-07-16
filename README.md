@@ -1,4 +1,4 @@
-<img width="50" height="50" alt="ninjutsu-store-logo" src="https://github.com/user-attachments/assets/11a384f9-ad36-410c-a3d1-31ff76bb2bac" /> <h1>Ninjutsu Store</h1>
+# <img width="50" height="50" alt="ninjutsu-store-logo" src="https://github.com/user-attachments/assets/11a384f9-ad36-410c-a3d1-31ff76bb2bac" /><h1>Ninjutsu Store</h1>
 
 A **Ninjutsu Store** é uma loja fictícia inspirada no universo Naruto, criada como projeto acadêmico para treinar habilidades em **HTML**, **CSS** e **UX/UI Design**. O objetivo é oferecer uma experiência visual imersiva, moderna e temática para fãs do mundo shinobi.
 
