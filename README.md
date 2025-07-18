@@ -1,4 +1,6 @@
-# <img width="50" height="50" alt="ninjutsu-store-logo" src="https://github.com/user-attachments/assets/11a384f9-ad36-410c-a3d1-31ff76bb2bac" /><h1>Ninjutsu Store</h1>
+<h1> <img width="100" height="100" alt="ninjutsu-store-logo" src="https://github.com/user-attachments/assets/eb725ef4-6e6a-4241-83b1-bfbec813963d" />
+Ninjutsu Store</h1>
+
 
 A **Ninjutsu Store** é uma loja fictícia inspirada no universo Naruto, criada como projeto acadêmico para treinar habilidades em **HTML**, **CSS** e **UX/UI Design**. O objetivo é oferecer uma experiência visual imersiva, moderna e temática para fãs do mundo shinobi.
 
@@ -73,6 +75,6 @@ A **Ninjutsu Store** é uma loja fictícia inspirada no universo Naruto, criada 
 ---
 
 ## 👩‍💻 Desenvolvido por
-<img src="https://github.com/user-attachments/assets/c8de6859-9630-4c6f-97c9-b41c92699005" alt="Isa Alves" width="100" style="border-radius: 50%;">
+<img src="https://github.com/user-attachments/assets/c8de6859-9630-4c6f-97c9-b41c92699005" alt="Isa Alves" width="100" style="border-radius: 50% ;">
 
 Isa Alves – [LinkedIn](www.linkedin.com/in/isalvesb) 
