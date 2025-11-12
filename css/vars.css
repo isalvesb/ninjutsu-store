@@ -1,0 +1,14 @@
+:root {
+  --color-base-preto: #0d0d0d;
+  --color-base-cinza-carvao: #1e1e1e;
+  --color-base-cinza-suave: #3d3d3d;
+  --color-primary-crimson-profundo: #7a0e1f;
+  --color-primary-vermelho-claro: #e05252;
+  --color-secondary-ouro-claro: #ffe08a;
+  --color-terciary-chakra-flamejante: #ff6600;
+  --color-emphasis-azul-profundo: #084870;
+  --font-title: "Monoton", sans-serif;
+  --font-body: "Chakra Petch", sans-serif;
+  --font-header: "Bungee Inline", sans-serif;
+  --font-footer: "Space Grotesk", sans-serif;
+}

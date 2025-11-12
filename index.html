@@ -8,32 +8,33 @@
 
     <link rel="icon" href="assets/favicon.ico" type="image/svg">
 
-    <!-- chamada font-awesome  -->
+    <!-- Chamada font-awesome  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
         integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <!-- chamada css  -->
+    <!-- Chamada css  -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/vars.css">
 
-    <!-- chamada google fonts  -->
+    <!-- Chamada google fonts  -->
     <!-- Monoton  -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
 
-    <!-- bungee inline -->
+    <!-- Bungee Inline -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap" rel="stylesheet">
 
-    <!-- chakra petch -->
+    <!-- Chakra Petch -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
         rel="stylesheet">
 
-    <!-- space grotesk -->
+    <!-- Space Grotesk -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
@@ -81,60 +82,66 @@
             <h2>Produtos em Destaque</h2>
 
             <div class="cards">
-                <article class="card1"><img src="assets/pergaminho-do-chidori.svg"
-                        alt="imagem do pergaminho do jutsu Chidori">
+                <article class="card1"><img src="assets/pergaminho-do-chidori.svg" alt="pergaminho do jutsu Chidori">
                     <h3>Pergaminho do Chidori</h3>
-                    <p>Técnica de alto nível criada por Kakashi Hatake. Ao ser desenrolado, revela selos e instruções
-                        para canalizar chakra
-                        relâmpago na mão, criando o Chidori — um golpe veloz e letal, recomendado apenas para usuários
-                        com reflexos avançados
-                        como o Sharingan.</p>
+                    <p>Técnica criada por Kakashi Hatake que ensina a canalizar chakra relâmpago na mão para formar o
+                        Chidori - um golpe rápido e mortal. Recomendado apenas para shinobis com reflexos excepcionais,
+                        especialmente os que possuem Sharingan.
+                    </p>
                 </article>
 
                 <article class="card2"><img src="assets/kunai-ninja.svg" alt="arma ninja">
                     <h3>Kunai Ninja</h3>
-                    <p>Uma lâmina curta e afiada forjada em aço negro, projetada tanto para combate corpo a corpo quanto
-                        para arremesso
-                        preciso. Equipada com anel na extremidade para amarração de fios ninja ou tarjas explosivas.
-                        Simples, versátil e mortal
-                        — a Kunai é o símbolo clássico do arsenal shinobi.</p>
+                    <p>Lâmina curta e afiada de aço negro, versátil para combate corporal e arremesso. Possui anel para
+                        amarrar fios ninja ou explosivos. Simples, versátil e mortal - é o símbolo clássico do arsenal
+                        shinobi.</p>
                 </article>
 
                 <article class="card3"><img src="assets/armadura-ninja-estilizada.svg" alt="armadura ninja">
                     <h3>Armadura
                         do
                         Shinobi</h3>
-                    <p>Proteção robusta, leve e durável.</p>
+                    <p>Armadura shinobi em ligas especiais: defesa robusta com mobilidade total. Leve para agilidade e
+                        durável contra impactos. Equilíbrio perfeito entre proteção e liberdade em missões perigosas.
+                    </p>
                 </article>
             </div>
         </section>
 
-        <div>
+        <div class="categorias-destaque">
             <h2>Siga o caminho do Ninja</h2>
             <p>Acesse nossos diferentes produtos para se tornar o melhor shinobi</p>
-            <article class="card4">
-                <img src="assets/jutsu-ninja.svg" alt="jutsus ninja">
-                <h5>Explore Jutsus</h5>
-                <p>Descubra os poderosos jutsus que você pode dominar</p>
-            </article>
 
-            <article class="card5">
-                <img src="assets/armas-ninjas.svg" alt="armas ninjas">
-                <h5>Encontre as melhores Armas</h5>
-                <p>Equipamentos de alta qualidade para sua jornada</p>
-            </article>
+            <div class="cards-categoria">
+                <article class="card-categoria jutsus">
+                    <img src="assets/jutsu-ninja.svg" alt="jutsus ninja">
+                    <div class="conteudo-texto">
+                        <h5>Explore Jutsus</h5>
+                        <p>Descubra os poderosos jutsus que você pode dominar</p>
+                    </div>
+                </article>
+
+                <article class="card-categoria armas">
+                    <img src="assets/armas-ninjas.svg" alt="armas ninjas">
+                    <div class="conteudo-texto">
+                        <h5>Encontre as melhores Armas</h5>
+                        <p>Equipamentos de alta qualidade para sua jornada</p>
+                    </div>
+                </article>
+            </div>
         </div>
     </main>
 
     <footer>
-        <nav aria-label="Links do rodapé" class="rodape">
+        <div class="links">
             <ul>
                 <li><a href="#">Termos de Uso</a></li>
                 <li><a href="#">Política de Privacidade</a></li>
                 <li><a href="#">Contato</a></li>
             </ul>
 
-            <p class="redes-sociais">Siga-nos:</p>
+            <div class="contato">
+                <p>Siga nos:</p>
             <ul class="social-icons">
                 <li><a href="https://facebook.com" target="_blank" aria-label="Facebbook"><i
                             class="fab fa-facebook-f"></i></a></li>
@@ -142,7 +149,8 @@
                             class="fab fa-instagram"></i></a></li>
                 <li><a href="https://twitter.com" target="_blank" aria-label="X"><i class="fab fa-twitter"></i></a></li>
             </ul>
-        </nav>
+            </div>
+        </div>
     </footer>
 
     </section>
