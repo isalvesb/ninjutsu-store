@@ -323,3 +323,158 @@ footer .social-icons a {
 footer .social-icons a:hover {
   color: var(--color-terciary-chakra-flamejante);
 }
+
+/* ===============================
+   📱 RESPONSIVIDADE - MOBILE FIRST
+   =============================== */
+
+/* Tablets e telas até 1024px */
+@media (max-width: 1024px) {
+  nav {
+    flex-direction: column;
+    height: auto;
+    padding: 1rem;
+  }
+
+  .menu {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+  }
+
+  .search-bar {
+    margin-top: 10px;
+  }
+
+  .banner {
+    height: 60vh;
+    background-position: center;
+  }
+
+  .conteudo-banner h2 {
+    font-size: 2.2rem;
+  }
+
+  .conteudo-banner p {
+    font-size: 1rem;
+  }
+
+  .conteudo-banner button {
+    font-size: 1rem;
+    padding: 10px 18px;
+  }
+
+  .produtos-destaque .cards {
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+
+  .cards-categoria {
+    flex-wrap: wrap;
+  }
+
+  footer .links {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+/* Smartphones até 768px */
+@media (max-width: 768px) {
+  .logo-titulo {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .logo-titulo h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .menu {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .search-bar input {
+    width: 160px;
+    font-size: 0.9rem;
+  }
+
+  .banner {
+    height: 50vh;
+    background-size: cover;
+  }
+
+  .conteudo-banner h2 {
+    font-size: 1.8rem;
+  }
+
+  .conteudo-banner p {
+    font-size: 1rem;
+  }
+
+  .produtos-destaque h2,
+  .categorias-destaque h2 {
+    font-size: 1.5rem;
+  }
+
+  .produtos-destaque .cards article,
+  .card-categoria {
+    width: 90%;
+  }
+
+  footer .links ul {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+
+  footer .social-icons {
+    justify-content: center;
+  }
+}
+
+/* Telas muito pequenas (até 480px) */
+@media (max-width: 480px) {
+  nav {
+    flex-direction: column;
+    height: auto;
+    gap: 0.5rem;
+  }
+
+  .logo {
+    height: 40px;
+  }
+
+  .conteudo-banner h2 {
+    font-size: 1.4rem;
+  }
+
+  .conteudo-banner p {
+    font-size: 0.9rem;
+  }
+
+  .conteudo-banner button {
+    font-size: 0.9rem;
+    padding: 8px 14px;
+  }
+
+  .produtos-destaque .cards,
+  .cards-categoria {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card-categoria img {
+    width: 60px;
+  }
+
+  footer {
+    padding: 1.5rem;
+  }
+
+  footer .links {
+    gap: 1rem;
+  }
+}
