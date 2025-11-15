@@ -20,11 +20,12 @@ A **Ninjutsu Store** é uma loja fictícia inspirada no universo Naruto, criada 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- FontAwesome
-- Figma (referência visual)
-- Tipografia personalizada (`Chakra Petch`, `Monoton`)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white) → Estrutura e semântica do conteúdo <br>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-rounded&logo=css3&logoColor=white) → Estilização, layout e responsividade <br> 
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=flat-rounded&logo=fontawesome&logoColor=white) → Ícones <br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-rounded&logo=figma&logoColor=white) → Prototipação do projeto <br>
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-rounded&logo=googlefonts&logoColor=white) → Tipografia personalizada (`Chakra Petch`, `Monoton`, `Bungee Inline` e `Space Grotesk`)
+
 
 ---
 
@@ -43,7 +44,8 @@ A **Ninjutsu Store** é uma loja fictícia inspirada no universo Naruto, criada 
 
 ## 🎨 Protótipo (Figma)
 
-> [🔗 Acessar Figma](https://www.figma.com/design/sUCLV2SFEk55kKTFfW87JU/Ninjutsu-Store?node-id=71-42)
+[![Figma](https://img.shields.io/badge/Acessar%20Figma-F24E1E?style=flat-rounded&logo=figma&logoColor=white)](https://www.figma.com/design/sUCLV2SFEk55kKTFfW87JU/Ninjutsu-Store?node-id=71-42)
+
 
 ---
 
@@ -70,11 +72,18 @@ A **Ninjutsu Store** é uma loja fictícia inspirada no universo Naruto, criada 
 
 ## 📷 Preview
 
-![Preview do site](https://media.licdn.com/dms/image/sync/v2/D4E27AQHCh6-KGLir6g/articleshare-shrink_1280_800/B4EZcn7zmsHYAQ-/0/1751322967003?e=1753311600&v=beta&t=RX5zmOwrVgoyfUaqMTmBtUNzpq0-P9HVdyjuTYw0WCI)
+<img width="1349" height="593" alt="image" src="https://github.com/user-attachments/assets/f70f99f2-2d8e-48e5-864b-caf3977742a7" />
+
 
 ---
 
 ## 👩‍💻 Desenvolvido por
-<img src="https://github.com/user-attachments/assets/c8de6859-9630-4c6f-97c9-b41c92699005" alt="Isa Alves" width="100" style="border-radius: 50% ;">
+<img src="https://github.com/user-attachments/assets/c8de6859-9630-4c6f-97c9-b41c92699005" alt="Isa Alves" width="120px" style="border-radius: 50% ;"> <br>
+<b>Isa Alves</b> 
 
-Isa Alves – [LinkedIn](www.linkedin.com/in/isalvesb) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-rounded&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isalvesb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-rounded&logo=gmail&logoColor=white)](mailto:alvesisamara254@gmail.com)
+
+
+
+
