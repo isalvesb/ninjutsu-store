@@ -21,7 +21,7 @@ A **Ninjutsu Store** é uma loja fictícia inspirada no universo Naruto, criada 
 ## 🛠️ Tecnologias Utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-rounded&logo=html5&logoColor=white) → Estrutura e semântica do conteúdo <br>
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-rounded&logo=css3&logoColor=white) → Estilização, layout e responsividade <br> 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-rounded&logo=css&logoColor=white) → Estilização, layout e responsividade <br> 
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=flat-rounded&logo=fontawesome&logoColor=white) → Ícones <br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-rounded&logo=figma&logoColor=white) → Prototipação do projeto <br>
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-rounded&logo=googlefonts&logoColor=white) → Tipografia personalizada (`Chakra Petch`, `Monoton`, `Bungee Inline` e `Space Grotesk`)
